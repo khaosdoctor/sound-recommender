@@ -138,7 +138,13 @@ Since we are comparing playlists, which is a collection of sounds, we need to fi
 
 ### Jaccard index
 
-The Jaccard index is calculated by dividing the intersection of the two sets by the union of the two sets. In this case, the sets are based on parts of the properties of the song: genres, bpm, duration, and a hash of the credits. The article explaining more about this type of implementation is in [this line](https://github.com/khaosdoctor/sound-recommender/blob/5c63124129ee578a47f9697022e3066c5589e792/src/services/RecommenderService.ts#L28).
+The Jaccard index is calculated by dividing the intersection of the two sets by the union of the two sets.
+
+$$
+J(A,B) = \frac{|A \cap B|}{|A \cup B|}
+$$
+
+In this case, the sets are based on parts of the properties of the song: genres, bpm, duration, and a hash of the credits. The article explaining more about this type of implementation is in [this line](https://github.com/khaosdoctor/sound-recommender/blob/5c63124129ee578a47f9697022e3066c5589e792/src/services/RecommenderService.ts#L28).
 
 > The credits are hashed because it's not possible to compare objects directly, so I'm using a hash to compare them. However I'm only hashing the name of the person in the credits, this makes it easier to find more combinations outside of the local group, for example, a singer in one songe that is a producer in another song.
 
