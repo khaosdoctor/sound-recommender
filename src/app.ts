@@ -24,7 +24,7 @@ async function initializeResources(config: AppConfig) {
   // seed the database (debug only for faster setup)
   if ((await sound.findAll()).length === 0) {
     config.logger.info('Seeding database, this is just for the demo, not for production!')
-    const seed = (await import('./data/sounds.json')).default
+    const seed = (await import('./data/sounds.json', { with: { type: 'json' } })).default
     await sound.create(seed.map((s) => new Sound(s)))
   }
 
