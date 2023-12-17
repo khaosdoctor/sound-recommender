@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Ephemeral Echoes",
+    "bpm": 135,
+    "genres": ["electronic"],
+    "duration_in_seconds": 195,
+    "credits": [
+      {
+        "name": "Electro Muse",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Synth Sculptor",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Midnight Mirage",
+    "bpm": 120,
+    "genres": ["pop", "electronic"],
+    "duration_in_seconds": 210,
+    "credits": [
+      {
+        "name": "Starlight Siren",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Digital Dreamweaver",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Soulful Serendipity",
+    "bpm": 110,
+    "genres": ["soul"],
+    "duration_in_seconds": 220,
+    "credits": [
+      {
+        "name": "Soulful Songster",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Groove Genius",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Cosmic Cadence",
+    "bpm": 130,
+    "genres": ["space"],
+    "duration_in_seconds": 190,
+    "credits": [
+      {
+        "name": "Galactic Songstress",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Cosmic Composer",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Vivid Vortex",
+    "bpm": 140,
+    "genres": ["electronic"],
+    "duration_in_seconds": 200,
+    "credits": [
+      {
+        "name": "Vibrant Vocalizer",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Energetic Engineer",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Harmony Haven",
+    "bpm": 125,
+    "genres": ["pop"],
+    "duration_in_seconds": 210,
+    "credits": [
+      {
+        "name": "Melodic Maven",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Harmony Architect",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Whispering Winds",
+    "bpm": 115,
+    "genres": ["ambient"],
+    "duration_in_seconds": 230,
+    "credits": [
+      {
+        "name": "Calm Zephyr",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Tranquil Tonesmith",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Rhythmic Raindrops",
+    "bpm": 128,
+    "genres": ["ambient"],
+    "duration_in_seconds": 195,
+    "credits": [
+      {
+        "name": "Rainy Rhythm",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Droplet Drummer",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Serene Sonata",
+    "bpm": 125,
+    "genres": ["classical"],
+    "duration_in_seconds": 210,
+    "credits": [
+      {
+        "name": "Classical Serenader",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Symphonic Sculptor",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Mystic Melancholy",
+    "bpm": 140,
+    "genres": ["ambient"],
+    "duration_in_seconds": 200,
+    "credits": [
+      {
+        "name": "Enigmatic Echo",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Ambient Artisan",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Sunset Serenade",
+    "bpm": 130,
+    "genres": ["pop", "rock"],
+    "duration_in_seconds": 180,
+    "credits": [
+      {
+        "name": "Aria Harmony",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Maverick Sound",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Urban Groove",
+    "bpm": 110,
+    "genres": ["hip-hop"],
+    "duration_in_seconds": 240,
+    "credits": [
+      {
+        "name": "Rhyme Master",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Beat Weaver",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Moonlit Melody",
+    "bpm": 120,
+    "genres": ["pop"],
+    "duration_in_seconds": 200,
+    "credits": [
+      {
+        "name": "Stella Songbird",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Harmony Architect",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Electric Dreams",
+    "bpm": 140,
+    "genres": ["electronic"],
+    "duration_in_seconds": 210,
+    "credits": [
+      {
+        "name": "Digital Diva",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Techno Maestro",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Rock Symphony",
+    "bpm": 125,
+    "genres": ["rock"],
+    "duration_in_seconds": 190,
+    "credits": [
+      {
+        "name": "Axel Axeman",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Riff Master",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Jazz Elegance",
+    "bpm": 115,
+    "genres": ["pop", "jazz"],
+    "duration_in_seconds": 220,
+    "credits": [
+      {
+        "name": "Jazz Virtuoso",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Swing Sage",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Street Poetry",
+    "bpm": 135,
+    "genres": ["hip-hop"],
+    "duration_in_seconds": 230,
+    "credits": [
+      {
+        "name": "Rap Poet",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Beatsmith XL",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Dance Revolution",
+    "bpm": 128,
+    "genres": ["electronic", "dance"],
+    "duration_in_seconds": 195,
+    "credits": [
+      {
+        "name": "Dance Dynamo",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "EDM Architect",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Country Roads",
+    "bpm": 125,
+    "genres": ["pop", "country"],
+    "duration_in_seconds": 210,
+    "credits": [
+      {
+        "name": "Country Crooner",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Country Harmony",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Eternal Echo",
+    "bpm": 140,
+    "genres": ["rock"],
+    "duration_in_seconds": 180,
+    "credits": [
+      {
+        "name": "Echo Enchantress",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Rock Reverie",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Midnight Jazz",
+    "bpm": 115,
+    "genres": ["jazz"],
+    "duration_in_seconds": 190,
+    "credits": [
+      {
+        "name": "Jazz Nightingale",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Moonlit Pianist",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Neon Dreams",
+    "bpm": 130,
+    "genres": ["pop", "electronic"],
+    "duration_in_seconds": 200,
+    "credits": [
+      {
+        "name": "Digital Dreamer",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Synth Sorcerer",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "City Lights",
+    "bpm": 110,
+    "genres": ["hip-hop"],
+    "duration_in_seconds": 240,
+    "credits": [
+      {
+        "name": "Urban Lyricist",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Street Beatmaker",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Celestial Serenity",
+    "bpm": 120,
+    "genres": ["pop"],
+    "duration_in_seconds": 210,
+    "credits": [
+      {
+        "name": "Starry Songstress",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Galactic Composer",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Digital Wonderland",
+    "bpm": 140,
+    "genres": ["electronic"],
+    "duration_in_seconds": 190,
+    "credits": [
+      {
+        "name": "Cyber Diva",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Virtual Maestro",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Thunderstruck",
+    "bpm": 125,
+    "genres": ["rock"],
+    "duration_in_seconds": 180,
+    "credits": [
+      {
+        "name": "Rock Thunder",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Guitar Lightning",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Jazz Noir",
+    "bpm": 115,
+    "genres": ["pop", "jazz"],
+    "duration_in_seconds": 220,
+    "credits": [
+      {
+        "name": "Noir Crooner",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Saxophone Sleuth",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Street Symphony",
+    "bpm": 135,
+    "genres": ["hip-hop"],
+    "duration_in_seconds": 230,
+    "credits": [
+      {
+        "name": "Urban Virtuoso",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Street Maestro",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Dance Ecstasy",
+    "bpm": 128,
+    "genres": ["electronic", "dance"],
+    "duration_in_seconds": 195,
+    "credits": [
+      {
+        "name": "Dance Enchantress",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Beat Alchemist",
+        "role": "PRODUCER"
+      }
+    ]
+  },
+  {
+    "title": "Country Serenade",
+    "bpm": 125,
+    "genres": ["pop", "country"],
+    "duration_in_seconds": 210,
+    "credits": [
+      {
+        "name": "Country Charmer",
+        "role": "VOCALIST"
+      },
+      {
+        "name": "Country Composer",
+        "role": "PRODUCER"
+      }
+    ]
+  }
+]
